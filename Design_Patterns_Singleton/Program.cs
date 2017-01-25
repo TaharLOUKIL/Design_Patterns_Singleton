@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 namespace Design_Patterns_Singleton
 {
     /// <summary>
