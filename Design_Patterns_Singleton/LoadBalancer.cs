@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
+
 namespace Design_Patterns_Singleton
 {
     /// <summary>
