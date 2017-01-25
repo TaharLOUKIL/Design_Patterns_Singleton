@@ -3,3 +3,6 @@ c:\users\loukil\documents\visual studio 2015\Projects\Design_Patterns_Factory\De
 c:\users\loukil\documents\visual studio 2015\Projects\Design_Patterns_Factory\Design_Patterns_Singleton\Design_Patterns_Singleton\bin\Debug\Design_Patterns_Singleton.pdb
 c:\users\loukil\documents\visual studio 2015\Projects\Design_Patterns_Factory\Design_Patterns_Singleton\Design_Patterns_Singleton\obj\Debug\Design_Patterns_Singleton.exe
 c:\users\loukil\documents\visual studio 2015\Projects\Design_Patterns_Factory\Design_Patterns_Singleton\Design_Patterns_Singleton\obj\Debug\Design_Patterns_Singleton.pdb
+C:\Users\LOUKIL\Documents\Visual Studio 2015\Projects\Design_Patterns_Singleton\Design_Patterns_Singleton\bin\Debug\Design_Patterns_Singleton.exe.config
+C:\Users\LOUKIL\Documents\Visual Studio 2015\Projects\Design_Patterns_Singleton\Design_Patterns_Singleton\obj\Debug\Design_Patterns_Singleton.exe
+C:\Users\LOUKIL\Documents\Visual Studio 2015\Projects\Design_Patterns_Singleton\Design_Patterns_Singleton\obj\Debug\Design_Patterns_Singleton.pdb
